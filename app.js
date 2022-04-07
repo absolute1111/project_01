@@ -1,7 +1,7 @@
 // 导入 express 模块
 const express = require('express')
 // 创建 express 的服务器实例
-const app = express()
+const app = express();
 
 // TODO_01：请配置 Session 中间件
 const session = require('express-session')
